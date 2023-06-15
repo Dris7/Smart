@@ -34,6 +34,8 @@ This route is used to upload an image to the server for processing. It expects a
 ` /calculate - GET`
 This route is used to calculate the solution for a given equation. It expects the equation as a query parameter named `equation`. It will return the solution as a JSON response.
 
+## archtect
+[https://github.com/Dris7/Smart/issues/1#issue-1759282652](https://user-images.githubusercontent.com/100499106/246194668-1c70a853-5f89-4d52-8c20-5269024b4e60.png)https://user-images.githubusercontent.com/100499106/246194668-1c70a853-5f89-4d52-8c20-5269024b4e60.png
 ## License
 This project is licensed under the MIT License.
 
