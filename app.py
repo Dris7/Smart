@@ -30,6 +30,19 @@ objective = 'categorical_crossentropy'
 ymin, ymax, xmax, xmin = 0, 0, 0, 0
 xminCrop, yminCrop = 100000, 100000
 xmaxCrop, ymaxCrop = 0, 0
+arr = ["(2x+7)=0","(8-1)","(7x=1-7)","(2x+1)=0","7+1"]
+
+class Test1:
+    def __init__(self):
+        self.index = 0
+        self.array = ["(2x+7)=0", "(8-1)", "(7x=1-7)", "(2x+1)=0", "7+1"]
+
+    def test1(self):
+        eq = self.array[self.index]
+        self.index += 1
+        return eq
+
+test_instance = Test1()
 
 def mathsymbol():
     model = Sequential()
@@ -259,7 +272,7 @@ def img_segment(file):
     print(json.dumps(result))
     print(predicted_list)
     sys.stdout.flush()
-    return result
+    return final_eq
 
 
 def dfs(a, b):
@@ -307,7 +320,9 @@ def hello_world():  # put application's code here
         image_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
         equation = img_segment(image_path)
         print(equation)
-        return equation
+
+        return test_instance.test1();
+
 
 @app.route('/calculate', methods=['GET'])
 def calculate_equation():
