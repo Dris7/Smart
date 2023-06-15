@@ -47,7 +47,7 @@ In the client-side repository, you will find:
 - Step-by-step instructions for setting up the development environment.
 - Detailed documentation on app functionality, user interfaces, and implementation details.
 - Guides on how to integrate the client-side with the server-side API.
-- 
+  
 To access the client-side repository, click on the following link: [Smooty](https://github.com/Dris7/Smoorty)
 
 Feel free to explore the repository, contribute to the code, and raise any issues or questions you may have.
