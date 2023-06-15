@@ -22,6 +22,15 @@ python app.py
 4. Run the server:
 The server will now be running on ```http://localhost:5000.```
 
+5. Expose the server to the internet using ngrok:
+   - Install ngrok by following the instructions at [ngrok.com](https://ngrok.com).
+   - Run the following command to expose the local server:
+     ```
+     ngrok http 5000
+     ```
+   - Note the forwarding URL provided by ngrok (e.g., `http://abcd1234.ngrok.io`). This URL will be used for client-side API calls.
+
+
 ## Notes
 - Ensure that the uploaded image is in a supported format (e.g., JPEG, PNG) and contains a clear representation of the equation.
 - The image processing and equation recognition algorithms are implemented using OpenCV and other computer vision techniques. Adjustments or improvements   to these algorithms can be made in the corresponding code files.
