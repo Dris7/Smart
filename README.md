@@ -39,7 +39,7 @@ This route is used to calculate the solution for a given equation. It expects th
 
 ## Client-Side Application
 
-For the client-side application code and detailed explanations, please refer to the [Smooty](https://github.com/username/client-side-repo). The repository contains the source code for the mobile app along with comprehensive instructions on installation, usage, and additional features.
+For the client-side application code and detailed explanations, please refer to the [Smooty](https://github.com/Dris7/Smoorty). The repository contains the source code for the mobile app along with comprehensive instructions on installation, usage, and additional features.
 
 In the client-side repository, you will find:
 
@@ -48,7 +48,7 @@ In the client-side repository, you will find:
 - Detailed documentation on app functionality, user interfaces, and implementation details.
 - Guides on how to integrate the client-side with the server-side API.
 - 
-To access the client-side repository, click on the following link: [Smooty](https://github.com/username/client-side-repo)
+To access the client-side repository, click on the following link: [Smooty](https://github.com/Dris7/Smoorty)
 
 Feel free to explore the repository, contribute to the code, and raise any issues or questions you may have.
 ## License
