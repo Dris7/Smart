@@ -36,6 +36,21 @@ This route is used to calculate the solution for a given equation. It expects th
 
 ## architect
 ![Arch](https://user-images.githubusercontent.com/100499106/246194668-1c70a853-5f89-4d52-8c20-5269024b4e60.png)
+
+## Client-Side Application
+
+For the client-side application code and detailed explanations, please refer to the [Smooty](https://github.com/username/client-side-repo). The repository contains the source code for the mobile app along with comprehensive instructions on installation, usage, and additional features.
+
+In the client-side repository, you will find:
+
+- Codebase for the mobile app developed using [flutter/java].
+- Step-by-step instructions for setting up the development environment.
+- Detailed documentation on app functionality, user interfaces, and implementation details.
+- Guides on how to integrate the client-side with the server-side API.
+- 
+To access the client-side repository, click on the following link: [Smooty](https://github.com/username/client-side-repo)
+
+Feel free to explore the repository, contribute to the code, and raise any issues or questions you may have.
 ## License
 This project is licensed under the MIT License.
 
