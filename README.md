@@ -57,7 +57,9 @@ In the client-side repository, you will find:
 - Detailed documentation on app functionality, user interfaces, and implementation details.
 - Guides on how to integrate the client-side with the server-side API.
   
-To access the client-side repository, click on the following link: [Smooty](https://github.com/Dris7/Smoorty)
+To access the client-side repository, click on the following link: 
+[Smooty_Java_Android](https://github.com/Dris7/Smoorty)
+[Smooty_Flutter_iOs_Android](https://github.com/Dris7/Smoorty_flutter)
 
 Feel free to explore the repository, contribute to the code, and raise any issues or questions you may have.
 ## License
